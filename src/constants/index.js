@@ -205,8 +205,8 @@ export const certificates = [
   },
   {
     title: "AWS Cloud Foundation",
-    image: "/certificates/aws_foundation.png",  // Path relative to your 'public' folder
-    link: "https://example-link-to-certificate.com",
+    image: "/certificates/cloud_foundation.png",  // Path relative to your 'public' folder
+    link: "https://www.credly.com/badges/a5ab3862-7e9d-459d-82a6-6aa439eb2407/public_url",
   },
   {
     title: "Python for Data Science - IBM",
@@ -333,24 +333,24 @@ const projects = [
   {
     name: "Smart AQI – Air Quality Prediction System",
     description:
-      "Developed and containerized a To-Do List WebApp using Docker and deployed it on AWS EC2 for scalable access. Automated the build, test, and deployment process using Jenkins pipelines, ensuring fast and reliable delivery.",
+      " Designed and implemented a machine learning-based web application that predicts real-time Air Quality Index (AQI) across Indian cities. Integrated Random Forest and LSTM models to forecast pollutant levels and provide health advisories. The application features an interactive frontend built with React and a Flask backend served through a REST API.",
     tags: [
       {
-        name: "Docker",
+        name: "Flask",
         color: "blue-text-gradient",
       },
       {
-        name: "CI/CD",
+        name: "Reacts js",
         color: "white-text-gradient",
       },
       {
-        name: "Jenkins",
+        name: "Data VIsualization",
         color: "green-text-gradient",
       },
-      {
-        name: "AWS",
-        color: "green-text-gradient",
-      },
+      // {
+      //   name: "AWS",
+      //   color: "green-text-gradient",
+      // },
     ],
     image: project3,
     source_code_link: "https://github.com/N1SCHALSMALAGATTI/Hackathon_web",
