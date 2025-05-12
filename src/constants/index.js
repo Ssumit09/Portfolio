@@ -200,27 +200,27 @@ const testimonials = [
 export const certificates = [
   {
     title: "AWS Cloud Intrroduction",
-    image: "/certificates/aws_introduction.png",  // Path relative to your 'public' folder
+    image: "/Portfolio/certificates/aws_introduction.png",  // Path relative to your 'public' folder
     link: "https://www.credly.com/badges/da497350-5391-4723-a7a9-d3dbceda7324/print",
   },
   {
     title: "AWS Cloud Foundation",
-    image: "/certificates/cloud_foundation.png",  // Path relative to your 'public' folder
+    image: "/Portfolio/certificates/cloud_foundation.png",  // Path relative to your 'public' folder
     link: "https://www.credly.com/badges/a5ab3862-7e9d-459d-82a6-6aa439eb2407/public_url",
   },
   {
     title: "Python for Data Science - IBM",
-    image: "/certificates/Python_datascience.png",
+    image: "/Portfolio/certificates/Python_datascience.png",
     link: "https://courses.cognitiveclass.ai/certificates/dbcfd96df4be4eb39b17252b07070365",
   },
   {
     title: "DataBase Management System - Infosys",
-    image: "/certificates/dbms.png",
+    image: "/Portfolio/certificates/dbms.png",
     link: "https://verify.onwingspan.com",
   },
   {
     title: "Power BI Certification - Infosys",
-    image: "/certificates/powerbi.png",
+    image: "/Portfolio/certificates/powerbi.png",
     link: "https://verify.onwingspan.com",
   },
 ];
