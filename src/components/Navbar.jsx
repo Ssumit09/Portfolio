@@ -100,7 +100,7 @@ const Navbar = () => {
               {/* Resume for mobile */}
               <li>
                 <a
-                  href="/resume.pdf"
+                  href="/Portfolio/resume.pdf"
                   download
                   className="bg-white text-black px-3 py-2 rounded-md text-[14px] font-semibold hover:bg-slate-200 transition-all"
                 >
