@@ -59,7 +59,7 @@ const Navbar = () => {
           {/* Download Resume Button */}
           <li>
             <a
-              href="/resume.pdf" // Place your resume in the public folder
+              href="/Portfolio/resume.pdf" // Place your resume in the public folder
               download
               className="bg-white text-black px-4 py-2 rounded-md text-[14px] font-semibold hover:bg-slate-200 transition-all"
             >
